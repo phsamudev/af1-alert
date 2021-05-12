@@ -24,7 +24,7 @@
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
     "node-datetime": "^2.1.2",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "yargs": "^15.0.2"
   }
 }
